@@ -1,0 +1,123 @@
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000000 (6).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000013 (8).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000015 (10).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000018 (5).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000020 (5).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000020 (6).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000021 (5).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000021 (6).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000023 (5).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000023 (9).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000030 (4).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000033 (9).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000035 (8).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000036 (7).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000048 (8).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000048.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000050 (8).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000054 (5).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000056 (7).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000058 (5).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000059 (7).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000063 (5).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000063 (7).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000075 (5).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000080 (6).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000083 (3).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000083 (6).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000084 (2).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000085 (7).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000093 (10).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000096 (7).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000097 (10).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000098 (5).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000098 (8).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000102 (2).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000103 (9).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000119 (10).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000119 (5).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000122.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\ad20.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000002 (4).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000004 (7).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000009 (3).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000009 (4).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000010 (6).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000016 (3).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000020 (4).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000032.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000032_1.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000033 (3).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000038 (7).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000039 (3).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000043.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000044 (2).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000046 (7).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000048 (7).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000051 (3).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000053 (6).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000053.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000056 (3).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000057 (4)_1.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000058 (3)_1.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000059 (3).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000060.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000062 (4).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000063.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000064 (4).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000067 (5).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000068 (4).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000070.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000071 (3).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000073 (6).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000078 (4).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000078 (5).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000078 (7).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000081.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000082 (4).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000083 (5).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000085.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000090 (6).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000095 (4).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000097.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000098 (4).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000099 (3).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000105 (2).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000122.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000137.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\non_adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib\000172.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\10 (2) - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\10 - Copy (2) - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\10 - Copy (3).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\11 (2) - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\11 - Copy (3).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\11.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\12 (2).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\12 - Copy - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\12.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\13 - Copy - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\18 (2) - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\19 (2) - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\19 - Copy (2) - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\19 - Copy (3).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\2 - Copy (2).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\20 - Copy (2) - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\21 - Copy (2) - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\21 - Copy (2).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\21 - Copy - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\3 (2) - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\3 - Copy (2).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\4 - Copy (2) - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\4 - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\5 - Copy (2) - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\5 - Copy (3).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\5 - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\6 - Copy (3).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\8 - Copy - Copy.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\n6 (2) - Copy.jpg
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\n6 - Copy.jpg
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\n7 (2).png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\n7.png
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\n8 (2) - Copy.jpg
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\n8 (2).jpg
+D:\BaiduNetdiskDownload\chest-ctscan-images_datasets\Data_chulihou\train_chulihou\normal\n9.jpg
